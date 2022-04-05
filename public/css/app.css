@@ -1,0 +1,42 @@
+<style>
+
+.table {
+    margin-top: 4em;
+
+}
+
+#centrado{
+    margin-right:4em;
+    margin-left:4em;
+    margin-top:2em;
+}
+
+.botonderecha{
+    float:right;
+    margin-right: 4em;
+}
+
+h3 {
+    text-align: center;
+}
+
+label {
+	margin-top: 2em;
+}
+
+input {
+	margin-right: 2em;
+}
+
+label, input {
+	margin-left: 2em;
+}
+
+.descripcion {
+	float: left;
+	font-size: 1.5em;
+	font-style: bold;
+	margin-left: 5em;
+}
+
+</style>   
